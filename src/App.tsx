@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.css';
 import AddUrlComponent from "./components/Shorted-url/AddUrlComponent";
 
 function App() {
@@ -19,5 +20,5 @@ function App() {
   );
 }
 
-export default App;
 
+export default App;
